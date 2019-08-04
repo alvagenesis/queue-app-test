@@ -1,5 +1,5 @@
 # queue-app
-description
+descriptions
 ## Project setup
 ```
 npm install
