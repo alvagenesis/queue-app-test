@@ -24,3 +24,4 @@ npm run test
 ```
 npm run lint
 ```
+fixed bug no.445
