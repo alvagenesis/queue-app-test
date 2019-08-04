@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # queue-app
 description
 ## Project setup
@@ -25,9 +24,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# queue-app-test
->>>>>>> 348b1605bfec63a59efc291a50b3530e43caf264
